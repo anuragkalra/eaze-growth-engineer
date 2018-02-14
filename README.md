@@ -20,7 +20,7 @@ Here are some examples of components you could test, but feel free to think of y
 
 ### Project Structure
 
-We've included all of the boilerplate to get started with this project using [create-react-app](https://github.com/facebookincubator/create-react-app), feel free to use this structure if you'd like. If you'd prefer to use something other than React or you'd prefer a different project structure, go ahead and make any changes you'd like.
+We've included all of the boilerplate to get started with this project using [create-react-app](https://github.com/facebookincubator/create-react-app), feel free to use this structure if you'd like. If you'd prefer a different project structure, go ahead and make any changes you like.
 
 ### Evaluation
 
