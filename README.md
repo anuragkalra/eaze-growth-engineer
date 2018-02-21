@@ -22,6 +22,10 @@ Here are some examples of components you could test, but feel free to think of y
 
 We've included all of the boilerplate to get started with this project using [create-react-app](https://github.com/facebookincubator/create-react-app), feel free to use this structure if you'd like. If you'd prefer a different project structure, go ahead and make any changes you like.
 
+### Submission Instructions
+
+Via Email: Please send us a link to a public Github repo of your solution code base. Do not send an attachment. Send us a write up of your A/B test via a Google Drive link, a Dropbox Paper link, or a link to a Markdown file in your Github repo.
+
 ### Evaluation
 
 The app should run on any computer by running `npm install` and `npm start`.
